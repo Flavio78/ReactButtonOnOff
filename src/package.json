@@ -1,0 +1,7 @@
+{
+  "main": "handling-events/1.js",
+  "dependencies": {
+    "react-dom": "latest",
+    "react": "latest"
+  }
+}
